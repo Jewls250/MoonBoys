@@ -1,0 +1,154 @@
+#myChart {
+  width: 80%;
+}
+img {
+  background-image: url(./images/pedro-lastra-wCujVcf0JDw-unsplash.jpg);
+  height: 800px;
+  background-size: contain;
+  width: 100%;
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  /* background-attachment: fixed; */
+}
+.chillinOnMoon {
+  background-image: url(./images/chillinOnMoon.jpeg);
+  height: 800px;
+  background-size: contain;
+  width: 100%;
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-attachment: fixed;
+  margin-bottom: 55px;
+}
+
+.takeOff {
+  background-image: url(./images/spacex-TV2gg2kZD1o-unsplash.jpg);
+  height: 850px;
+  background-size: contain;
+  width: 100%;
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  /* background-attachment: fixed; */
+  margin-bottom: 55px;
+}
+
+.standingOnMoon{
+  background-image: url(./images/history-in-hd-e5eDHbmHprg-unsplash.jpg);
+  height: 700px;
+  background-size: contain;
+  width: 100%;
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-attachment: fixed;
+  margin-bottom: 55px;
+}
+
+nav{
+  border-bottom: white 2px solid;
+}
+
+footer{
+  border-top: white 2px solid;
+}
+
+h5{
+  font-size: 35px;
+}
+
+h6{
+  font-size: 30px;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-image: linear-gradient(to bottom right, #434343 0%, black 100%);
+  text-align: center; 
+  padding: 30px 0px;
+  width: 100%;
+  font-size: 20px;
+}
+
+main {
+  flex: 1 0 auto;
+  padding-top: 25px;
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 25px;
+}
+
+.bgColor, footer, .btnColor, #searchBtn {
+  background-image: linear-gradient(to bottom right, #434343 0%, black 100%);
+  text-align: center; 
+}
+
+.tab {
+  width: 25%;
+}
+
+.tab {
+  width: 50%;
+}
+
+.padding {
+  padding-top: 20px;
+}
+
+#center {
+  text-align: center;
+}
+
+#companySearch2 {
+  color: black;
+}
+
+.cardPadding {
+  padding: 10%;
+}
+
+.floatLeft {
+  float: left;
+  width: 50%;
+  padding-right: 5%;
+}
+
+.floatRight {
+  float: right;
+  width: 50%;
+  padding-left: 5%;
+}
+
+.floatRight {
+  float: right;
+  width: 50%;
+  padding-left: 5%;
+}
+
+#stockList {
+  margin: 10px;
+}
+
+#companySearch2 {
+  height: 36px;
+}
+
+#paddingTop{
+  padding: 35px 0px;
+}
+
+#title{
+  font-size: 35px;
+}
+
+#title1{
+  font-size: 20px;
+}
