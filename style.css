@@ -36,6 +36,7 @@ img {
   position: relative;
   /* background-attachment: fixed; */
   margin-bottom: 55px;
+  
 }
 
 .standingOnMoon{
@@ -47,7 +48,7 @@ img {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  background-attachment: fixed;
+  background-attachment: fixed; 
   margin-bottom: 55px;
 }
 
@@ -86,7 +87,7 @@ main {
   padding-bottom: 25px;
 }
 
-.bgColor, footer, .btnColor, #searchBtn {
+.bgColor, footer{
   background-image: linear-gradient(to bottom right, #434343 0%, black 100%);
   text-align: center; 
 }
@@ -151,4 +152,8 @@ main {
 
 #title1{
   font-size: 20px;
+}
+
+button{
+  background-color: teal;
 }
